@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mudug\source\repos\project2\project2\source.cpp(72): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\mudug\source\repos\project2\project2\source.cpp(72): note: placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+  c:\users\mudug\source\repos\project2\project2\source.cpp(72): note: the missing variadic argument 4 is required by format string '%s'
+  Project2.vcxproj -> C:\Users\mudug\source\repos\Project2\Debug\Project2.exe

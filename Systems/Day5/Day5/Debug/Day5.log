@@ -1,0 +1,6 @@
+﻿  anagrams.cpp
+c:\users\mudug\source\repos\day5\day5\anagrams.cpp(68): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  main.cpp
+  sort.cpp
+  Generating Code...

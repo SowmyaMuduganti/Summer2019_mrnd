@@ -1,0 +1,5 @@
+﻿  excel3.cpp
+c:\users\mudug\source\repos\excelv1\excelv1\excel3.cpp(87): warning C4101: 's': unreferenced local variable
+c:\users\mudug\source\repos\excelv1\excelv1\excel3.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\mudug\source\repos\excelv1\excelv1\excel3.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  ExcelV1.vcxproj -> C:\Users\mudug\source\repos\ExcelV1\Debug\ExcelV1.exe
